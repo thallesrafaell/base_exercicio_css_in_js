@@ -34,6 +34,7 @@ export const Formulario = styled.form`
 export const HeroTitle = styled.h2`
   font-family: Gloock, serif;
   font-size: 48px;
+  color: var(--cor-secundaria);
 
   @media (max-width: 768px) {
     .heroTitle {
